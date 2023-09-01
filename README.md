@@ -7,6 +7,6 @@
 
 ### 1. Hello, Flutter!
 
-<img src="./src/hello.png" width="20%" />
+<img src="./assets/hello.png" width="20%" />
 
 [View code](/lib/hello.dart)
