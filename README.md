@@ -4,6 +4,7 @@
 ##### [1. Hello, Flutter!](#1-hello-flutter-1)
 ##### [2. Flutter Layout](#2-flutter-layout-1)
 ##### [3. User Input](#3-user-input-1)
+##### [4. Bottom Navigation Bar](#4-bottom-navigation-bar-1)
 
 <br/>
 
@@ -28,3 +29,11 @@
 <img src="./assets/input.png" width="20%" />
 
 [View code](/lib/input.dart)
+
+<br/>
+
+### 4. Bottom Navigation Bar
+
+<img src="./assets/instagram.gif" width="20%" />
+
+[View code](/lib/instagram.dart)
